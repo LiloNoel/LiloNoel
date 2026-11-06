@@ -67,12 +67,12 @@ const lilo = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LiloNoel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2ff7" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiloNoel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiloNoel&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff2e97&currStreakLabel=00f0ff" alt="streak" />
 </p>
 
 ---
