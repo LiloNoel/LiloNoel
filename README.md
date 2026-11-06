@@ -26,7 +26,6 @@ const lilo = {
   role: "Full Stack Developer",
   currentlyLearning: ["Frameworks", "Fullstack Dev", "DevOps strategies"],
   reachMe: "lilo.noel44@gmail.com",
-  funFact: "I like my UIs with a bit of neon ✨",
 };
 ```
 
@@ -76,9 +75,4 @@ const lilo = {
 </p>
 
 ---
-
-<p align="center">
-  <i>"Make it work, make it right, make it neon."</i>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00f0ff&height=120&section=footer" alt="footer" />
